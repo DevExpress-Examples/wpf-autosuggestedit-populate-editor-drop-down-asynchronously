@@ -4,6 +4,6 @@ In this example, we created an asynchronous [QuerySubmitted](https://docs.devexp
 
 We used [DataServiceContext](https://docs.microsoft.com/en-us/dotnet/api/system.data.services.client.dataservicecontext) to load data from our demo service, and can replace it with any other appropriate data source.
 
- See also:
+See also:
  
- [How to use AutoSuggestEdit with InfiniteAsyncSource](https://github.com/DevExpress-Examples/How-to-use-AutoSuggestEdit-with-InfiniteAsyncSource)
+[How to use AutoSuggestEdit with InfiniteAsyncSource](https://github.com/DevExpress-Examples/How-to-use-AutoSuggestEdit-with-InfiniteAsyncSource)
