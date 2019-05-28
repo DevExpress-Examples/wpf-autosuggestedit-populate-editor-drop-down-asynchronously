@@ -6,4 +6,4 @@ We used [DataServiceContext](https://docs.microsoft.com/en-us/dotnet/api/system.
 
  See also:
  
- [How to use AutoSuggestEdit with InfiniteAsyncSource]()
+ [How to use AutoSuggestEdit with InfiniteAsyncSource](https://github.com/DevExpress-Examples/How-to-use-AutoSuggestEdit-with-InfiniteAsyncSource)
